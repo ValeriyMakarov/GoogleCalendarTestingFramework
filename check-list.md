@@ -8,6 +8,7 @@
 - [ ] Event creation with no fields filled
 - [ ] Event creation via day, 3-day, week schedule view
 - [ ] Event creation via month schedule grid
+- [ ] Event copy
 - [ ] Canceling event creation
 ## Event altering check-list
 - [ ] Event altering
