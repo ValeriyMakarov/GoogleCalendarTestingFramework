@@ -64,10 +64,10 @@
         </tr>
         <tr>
           <td>5</td>
-          <td>Press "Does not repeat" button and select "Every day" option in dropdown.</td>
+          <td>Press "Does not repeat" button and select "Every day" option in dialog.</td>
           <td>
             <ul>
-              <li>Dropdown is closed.</li>
+              <li>Dialog is closed.</li>
               <li>"Does not repeat" button changed text to "Every day".</li>
             </ul>
           </td>
