@@ -13,7 +13,7 @@ To create automation testing framework.
 To check main functionality of Google Calendar mobile app: creation, updating and delition of events via UI on Android system using new testing framework.
 
 ## Scope
-Features: creation of events, updation of events, deletion of events.
+Features: creation of events, altering of events, deletion of events.
 
 ## Out of scope
 Features: all other features.
@@ -28,6 +28,8 @@ Integrational testing.
 
 ## Approach
 Functional testing;
+
+Exploratory testing;
 
 Automated testing;
 
@@ -46,8 +48,8 @@ Google Calendar app.
 |24.07.2024|24.07.2024|Analysis of dependencies and preparation for the start of automation|Me|
 |25.07.2024|25.07.2024|Creation of test documentation|Me|
 |26.07.2024|26.07.2024|Creation of testing framework|Me|
-|27.07.2024|27.07.2024|Writing automation scripts|Me|
-|27.07.2024|28.07.2024|Demonstration of test documentation and testing framework|QA lead|
+|27.07.2024|28.07.2024|Writing automation scripts|Me|
+|29.07.2024|29.07.2024|Demonstration of test documentation and testing framework|QA lead|
 
 ## Entry criteria
 Google calendar apk file must be available.
