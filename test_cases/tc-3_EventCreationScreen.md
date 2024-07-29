@@ -46,6 +46,7 @@
           <td>
             User can see screen with next fields:
             <ol>
+              <li>Field name: "Save button", Field text: "Save".</li>
               <li>Field name: "Title", Field text: "Add title".</li>
               <li>Field name: "Event button", Field text: "Event".</li>
               <li>Field name: "Task button", Field text: "Task".</li>
@@ -54,8 +55,13 @@
               <li>Field name: "End time", Field text: {day and time in selected format}.</li>
               <li>Field name: "Timezone", Field text: {timezone}.</li>
               <li>Field name: "Does not repeat button", Field text: "Does not repeat".</li>
-              <li>Field name: "Add guests button", Field text: "Add guests".</li>
-              ...
+              <li>Field name: "Add people", Field text: "Add people".</li>
+              <li>Field name: "Conference", Field text: "Add video conferencing".</li>
+              <li>Field name: "Location", Field text: "Add location".</li>
+              <li>Field name: "Notifications", Field text: "Add notification".</li>
+              <li>Field name: "Color", Field text: "default color".</li>
+              <li>Field name: "Description", Field text: "Add description".</li>
+              <li>Field name: "Attachment", Field text: "Add attachment".</li>
             </ol>
           </td>
         </tr>
