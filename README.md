@@ -22,10 +22,10 @@ All test documentations will be contained in this repository in .md format.
 
 Useful links: [Appium](https://appium.io/docs/en/latest/intro/)
 
-[Requirements](requirements.md)
-
 [Test-plan](test-plan.md)
 
 [Check-list](check-list.md)
 
 You can see all test-cases in __test_cases__ directory.
+
+There are: test-plan, check-list with suits, 3 test-cases, 1 autotest and framework.
