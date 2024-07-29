@@ -27,7 +27,7 @@
     <td>
       <ol>
         <li>Open Google Calendar.</li>
-        <li>Select month enents show type.</li>
+        <li>Select month events show type.</li>
         <li>User can see calendar grid.</li>
         <li>There are no events in the grid.</li>
       </ol>
@@ -45,7 +45,7 @@
         <tr>
           <td>1</td>
           <td>Press "+" button.</td>
-          <td>User can see screen with next buttons: Task, Event.</td>
+          <td>User can see screen with next buttons: Reminder, Event, Goal.</td>
         </tr>
         <tr>
           <td>2</td>
@@ -78,7 +78,7 @@
           <td>
             <ul>
               <li>User can see the list of guests.</li>
-              <li>User can see that video google conferencion info is added.</li>
+              <li>User can see that video google conference info is added.</li>
             </ul>
           </td>
         </tr>

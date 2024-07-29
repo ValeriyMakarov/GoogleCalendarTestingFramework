@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "myEmulator",
+  "appPackage": "com.google.android.calendar",
+  "appActivity": "com.android.calendar.event.LaunchInfoActivity",
+  "automationName": "UiAutomator2",
+  "language": "en",
+  "locale": "US"
+}
